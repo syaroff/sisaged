@@ -1,0 +1,11 @@
+
+.header-page {
+    min-height: 100rem;
+}
+.header-page h1 {
+    color: #0014C6;
+    font-size: 5rem;
+}
+.card {
+    border-radius: 5% !important;
+}
